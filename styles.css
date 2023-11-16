@@ -1,0 +1,15 @@
+h1 {
+    border-style: solid;
+    text-align: center;
+    background-color: grey;
+    color: white;
+}
+
+* {
+    background-color: pink;
+}
+
+a {
+    font-size: 24px;
+
+}
